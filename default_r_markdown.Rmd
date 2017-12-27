@@ -1,7 +1,9 @@
 ---
 title: "Sample-RMarkdown"
 author: "Alvaro Fuentes"
-output: html_document
+output:
+  word_document: default
+  html_document: default
 ---
 
 ```{r setup, include=FALSE}
